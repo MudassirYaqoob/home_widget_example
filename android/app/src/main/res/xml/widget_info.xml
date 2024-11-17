@@ -1,0 +1,8 @@
+<!-- this file is defining out widget layout and size -->
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/widget_layout"
+    android:minWidth="200dp"
+    android:minHeight="110dp"
+    android:minResizeWidth="180dp"
+    android:minResizeHeight="110dp"
+    android:widgetCategory="home_screen" />
